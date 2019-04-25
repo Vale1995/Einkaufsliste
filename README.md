@@ -10,3 +10,5 @@
 ## Sonstiges
 + eksde
 + eksde
+
+## Änderungen von Daniel Leer
